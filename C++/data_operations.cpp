@@ -14,5 +14,5 @@ int main()
   cout << "Multiplication is: " << num1 * num2 << endl; // --> Multiplication
   cout << "Division is: " << num2/num1 << " With a reminder of: " << num2%num1 << endl; // --> Division and Modulo operation
 
-  /* 2 - Precedence and Associativity
+  /* 2 - Precedence and Associativity*/
 }
